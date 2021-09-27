@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinmaya-panda
 - 👀 I’m interested in Python, Data Visualization, Data Science and Big Data Analytics
-- 🌱 I’m currently learning PySpark, ReactJS
+- 🌱 I’m currently learning PySpark, ReactJS and K8S
 - 💞️ I’m looking to collaborate on API development
 - 📫 How to reach me emailchinmayapanda@gmail.com and twitter: @Chinmaya051985
 
